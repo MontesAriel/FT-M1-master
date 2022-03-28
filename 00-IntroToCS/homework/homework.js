@@ -12,6 +12,7 @@ function BinarioADecimal(num) {
 
 function DecimalABinario(num) {
   // tu codigo aca
+  hola
 }
 
 module.exports = {
